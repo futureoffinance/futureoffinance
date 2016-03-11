@@ -1,0 +1,12 @@
+{
+    "name": "kasko/futureoffinance",
+    "require": {
+        "guzzle/guzzle": "^3.9"
+    },
+    "authors": [
+        {
+            "name": "Martins Sipenko",
+            "email": "martins.sipenko@gmail.com"
+        }
+    ]
+}
